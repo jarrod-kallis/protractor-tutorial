@@ -27,7 +27,7 @@
 
 **_https://www.protractortest.org/#/api-overview#global-variables_**
 
-<span style="color: red"><b>NB!!</b></span> Not all asynchronise steps are handled by Protractor. The ones that are allow us to write statements as if they were synchronise, otherwise subsequent steps will need to be performed in a 'then' block
+<span style="color: red"><b>NB!!</b></span> Not all asynchronous steps are handled by Protractor. The ones that allow us to write statements as if they were synchronous, otherwise subsequent steps will need to be performed in a 'then' block
 
 ## Jasmine Website
 
