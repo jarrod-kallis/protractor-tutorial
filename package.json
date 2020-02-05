@@ -1,0 +1,12 @@
+{
+  "name": "protractor-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test-server": "webdriver-manager start",
+    "test": "protractor config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
